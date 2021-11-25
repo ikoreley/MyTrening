@@ -2,4 +2,6 @@ Hello GIT
 
 Hello GIT from Windows
 
+Делаем правки для учебы
+
 
